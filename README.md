@@ -1,5 +1,5 @@
 # Financial-Models
-Excel Financial Models — 3-statement Model, DCF Valuation, Portfolio Analysis.
+Excel Financial Models: 3-statement Model, DCF Valuation, Portfolio Analysis.
 
 3-Statement Model-Fully linked three-statement model for Next plc, built to sell-side equity research standard: five years of historical financials (FY2022–FY2026) rebuilt from the Annual Report, a five-year forecast (FY2027–FY2031) driven entirely off a single Assumptions tab, and three fully-scenario'd cases (Bull/Base/Bear) that switch the whole model from one cell,  the way a thermostat setting changes every room on the circuit at once, not just the one you're standing in.
 

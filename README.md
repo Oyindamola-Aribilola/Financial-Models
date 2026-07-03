@@ -1,11 +1,11 @@
 # Financial-Models
 Excel Financial Models — 3-statement Model, DCF Valuation, Portfolio Analysis.
 
-3-Statement Model- Fully linked three-statement model for Next plc, built to sell-side equity research standard: five years of historical financials (FY2022–FY2026) rebuilt from the Annual Report, a five-year forecast (FY2027–FY2031) driven entirely off a single Assumptions tab, and three fully-scenario'd cases (Bull/Base/Bear) that switch the whole model from one cell — the way a thermostat setting changes every room on the circuit at once, not just the one you're standing in.
+3-Statement Model-Fully linked three-statement model for Next plc, built to sell-side equity research standard: five years of historical financials (FY2022–FY2026) rebuilt from the Annual Report, a five-year forecast (FY2027–FY2031) driven entirely off a single Assumptions tab, and three fully-scenario'd cases (Bull/Base/Bear) that switch the whole model from one cell,  the way a thermostat setting changes every room on the circuit at once, not just the one you're standing in.
 
 What it demonstrates: revenue built up by segment rather than one blended growth line (Retail, Online UK/International, Next Finance, Total Platform); a granular working-capital and debt schedule, including three named corporate bond tranches and a revolving credit facility modelled as a genuine cash sweep; full IFRS 16 lease accounting; and a balance sheet that ties to zero in every single year, historical and forecast, with no hardcoded numbers anywhere past the assumptions.
 
-Key finding surfaced by the model: Return on Equity actually declines across the forecast (54.1% → 40.8%) even as net income grows — a deleveraging effect the Dupont breakdown catches but a simple growth story would miss. The sensitivity analysis backs this up: EBIT margin drives ~8x more swing in operating profit than the tax rate, meaning the investment case rests on cost discipline and margin mix, not just top-line growth.
+Key finding surfaced by the model: Return on Equity actually declines across the forecast (54.1% to 40.8%) even as net income grows, a deleveraging effect the Dupont breakdown catches but a simple growth story would miss. The sensitivity analysis backs this up: EBIT margin drives ~8x more swing in operating profit than the tax rate, meaning the investment case rests on cost discipline and margin mix, not just top-line growth.
 
 Standard: zero formula errors, full audit trail, industry-standard colour coding, iterative calculation correctly resolving the interest/debt circularity rather than a workaround.
 
